@@ -1,4 +1,4 @@
-# Living-face-recognition
+# Real-Fake-face-recognition
 Living face recognition
 
 活物识别在生活中有广泛应用，设想如果一个人拿着你的照片去刷脸支付，是不是你钱包就要空了。在生活中，有多种方法进行活物（活体）识别，比如动作指令活体检测（让你眨眼睛等）。这里我们是用CNN（卷积神经网络）来对图片进行分析来识别是否为真人。
